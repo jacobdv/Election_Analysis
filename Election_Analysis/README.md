@@ -11,14 +11,14 @@ Calculate the percentage of votes from each county out of the total.
 Determine the county with the highest turnout.
 
 
-#Resources
+# Resources
 Data Source: election_
 results.csv
 Software: Python 3.9.1, Visual Studio Code 1.52.1
 
 
 
-#Summary
+# Summary
 ###The analysis of the election shows that:
 
 1) There were 369,711 votes cast in the election.
